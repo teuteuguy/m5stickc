@@ -17,7 +17,7 @@ Then clone this repo:
 git clone https://github.com/teuteuguy/m5stickc
 ```
 
-To build:
+## Build:
 ```bash
 cd amazon-freertos/vendors/espressif/boards/m5stickc/aws_demos
 ```
